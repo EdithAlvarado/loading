@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/EdithAlvarado/loading.git/static/css/main.d135e6cf.css",
-    "main.js": "/EdithAlvarado/loading.git/static/js/main.6592fa20.js",
-    "static/js/787.c8ac7851.chunk.js": "/EdithAlvarado/loading.git/static/js/787.c8ac7851.chunk.js",
-    "static/media/mountains.jpg": "/EdithAlvarado/loading.git/static/media/mountains.c7317ce465b4451e9eb1.jpg",
-    "static/media/airbnb-brands.svg": "/EdithAlvarado/loading.git/static/media/airbnb-brands.048182c304f50af8d4fb209a004a4cb4.svg",
-    "index.html": "/EdithAlvarado/loading.git/index.html",
-    "main.d135e6cf.css.map": "/EdithAlvarado/loading.git/static/css/main.d135e6cf.css.map",
-    "main.6592fa20.js.map": "/EdithAlvarado/loading.git/static/js/main.6592fa20.js.map",
-    "787.c8ac7851.chunk.js.map": "/EdithAlvarado/loading.git/static/js/787.c8ac7851.chunk.js.map"
+    "main.css": "/loading/static/css/main.d135e6cf.css",
+    "main.js": "/loading/static/js/main.21b14e8e.js",
+    "static/js/787.c8ac7851.chunk.js": "/loading/static/js/787.c8ac7851.chunk.js",
+    "static/media/mountains.jpg": "/loading/static/media/mountains.c7317ce465b4451e9eb1.jpg",
+    "static/media/airbnb-brands.svg": "/loading/static/media/airbnb-brands.048182c304f50af8d4fb209a004a4cb4.svg",
+    "index.html": "/loading/index.html",
+    "main.d135e6cf.css.map": "/loading/static/css/main.d135e6cf.css.map",
+    "main.21b14e8e.js.map": "/loading/static/js/main.21b14e8e.js.map",
+    "787.c8ac7851.chunk.js.map": "/loading/static/js/787.c8ac7851.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d135e6cf.css",
-    "static/js/main.6592fa20.js"
+    "static/js/main.21b14e8e.js"
   ]
 }
